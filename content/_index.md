@@ -140,10 +140,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Public sector
+          tag: Public sector
+        - name: United Nations
+          tag: United Nations
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -198,6 +198,17 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
+
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
+
+
   - block: contact
     id: contact
     content:
@@ -206,37 +217,34 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: carlos.arturo.ramirez.hernandez@umontreal.ca
+      phone: +1 (438) 5290394
+#      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: 3150, rue Jean-Brillant
+        city: Montréal
+        region: QC
+        postcode: 'H3T 1N8'
+        country: Canada
+        country_code: CA
+      directions: Pavillon Lionel-Groulx, Office C-5037 on Floor 5
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '45.49917528205894'
+        longitude: '-73.6183511451161'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/CARAMIREZHER'
+#        - icon: skype
+#          icon_pack: fab
+#          name: Skype Me
+#          link: 'skype:echo123?call'
+#        - icon: video
+#          icon_pack: fas
+#          name: Zoom Me
+#          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -250,13 +258,5 @@ sections:
     design:
       columns: '2'
 
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
 
 ---
