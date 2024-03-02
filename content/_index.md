@@ -235,7 +235,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: CARAMIREZHER
           link: 'https://twitter.com/CARAMIREZHER'
 #        - icon: skype
 #          icon_pack: fab
