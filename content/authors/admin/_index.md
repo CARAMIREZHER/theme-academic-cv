@@ -3,26 +3,26 @@
 title: Carlos Arturo Ramirez Hernandez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Carlos
-last_name: Ramirez
+#first_name: Carlos
+#last_name: Ramirez
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Ph.D. Demography (Student)
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Université de Montréal
-    url: https://www.https://www.umontreal.ca/
+    url: https://www.umontreal.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a demographer interested in the statistical measurement and analysis of determinants of harmful practices in Latin America. My research interests include closing gaps in the measurement of the Sustainable Development Goals and generating evidence for decision-making in public policy and management. I have had work experience with the public sector and the United Nations.
 {style="text-align: justify;"}
