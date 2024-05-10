@@ -51,26 +51,25 @@ education:
     - course: B.S. Statistics
       institution: Universidad Nacional de Colombia
       year: 2011
-      location: Colombia
-
+      
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: SAS
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: LaTeX
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
