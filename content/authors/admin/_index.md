@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carlos Arturo Ramirez HernandezZ
+title: Carlos Arturo Ramirez Hernandez
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
@@ -29,9 +29,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Measurement of gender based violence
+  - Measurement of sexual and reproductive health
+  - Indigenous population
+  - Latin American demographics
+  - Gaps in measuring the SDGs
+  - Demography and public policy
+  - Quantitative analysis method
+  - Sampling design
+  - Multivariate analysis
+  - Non-parametric analysis
 
 # Education to show in About widget
 education:
