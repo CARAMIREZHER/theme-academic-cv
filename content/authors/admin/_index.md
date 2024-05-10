@@ -57,20 +57,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: R
-        description: ''
-        percent: 90
-        icon: R
-        icon_pack: fab
-      - name: SAS
-        description: ''
-        percent: 90
-        icon: SAS
-        icon_pack: fas
-      - name: LaTeX
+      - name: Python
         description: ''
         percent: 80
-        icon: LaTeX
+        icon: python
+        icon_pack: fab
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
