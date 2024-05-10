@@ -31,16 +31,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: International Consultant
+          company: United Nations Population Fund (UNFPA), Latin America & the Caribbean  Regional Office
+          company_url: 'https://lac.unfpa.org/es'
+          company_logo: UNFPA
+          location: Panama
+          date_start: '2024-05-03'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
+              Measuring harmful practices in indigenous populations in Latin American countries:
               * Analysing
               * Modelling
               * Deploying
