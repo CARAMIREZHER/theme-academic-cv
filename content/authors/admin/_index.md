@@ -60,17 +60,17 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: python
+        icon: R
         icon_pack: fab
       - name: SAS
         description: ''
         percent: 90
-        icon: chart-line
+        icon: SAS
         icon_pack: fas
       - name: LaTeX
         description: ''
         percent: 80
-        icon: database
+        icon: LaTeX
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
