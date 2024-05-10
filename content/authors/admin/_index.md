@@ -42,15 +42,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. Demography (Student)
+      institution: Université de Montréal
+      year: 2023
+    - course: M.S. Demography
+      institution: Université Paris 1 Panthéon-Sorbonne
+      year: 2015
+    - course: B.S. Statistics
+      institution: Universidad Nacional de Colombia
+      year: 2011
+      location: Colombia
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
