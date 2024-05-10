@@ -42,7 +42,6 @@ sections:
               Measuring harmful practices in indigenous populations in Latin American countries:
               * Analysing
               * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
