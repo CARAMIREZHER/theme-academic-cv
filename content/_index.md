@@ -34,7 +34,7 @@ sections:
         - title: International Consultant
           company: United Nations Population Fund (UNFPA), Latin America & the Caribbean  Regional Office
           company_url: 'https://lac.unfpa.org/es'
-          company_logo: org-gc
+          company_logo: UNFPA
           location: Panama
           date_start: '2024-05-03'
           date_end: ''
