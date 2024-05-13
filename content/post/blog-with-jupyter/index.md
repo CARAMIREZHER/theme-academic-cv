@@ -4,11 +4,7 @@ date: '2024-05-01'
 summary: Trois fois plus fréquent chez les femmes autochtones en Colombie
 ---
 
-
-![png](output_1_0.png)
-    
-
-## Contexte
+## Résumé
 
 Dans le cas de l’Amérique latine, les mariages forcés/précoces (MFP) ne sont répandues dans aucun de ses pays, mais elles se concentrent sur des territoires spécifiques et sur des groupes de population particuliers, comme c’est le cas des communautés autochtones. Il existe des opérations statistiques telles que les recensements et les statistiques de naissances/décès qui n'ont été exploités auparavant, pour comprendre s'il existe des facteurs associés qui peuvent être associés à cet pratique, si elles sont exclusives ou plus fréquentes dans les communautés autochtones. Même d'évaluer si le fait d'avoir subi l'une de ces pratiques augmente la prévalence de décès maternelle de ces filles et adolescente.
 L'objectif principal de ce travail vise à combler la lacune dans les connaissances sur les MFP d'une approche démographique, parmi les populations autochtones d'Amérique latine.  Plus spécifiquement, elle vise à (1) déterminer si le mariage précoce est-il un facteur associé aux décès maternels des adolescentes et des filles en Colombie et; 2) déterminer si l’appartenance ethnique augmente la prévalence associée à cette relation. 
@@ -18,6 +14,9 @@ Pour ces analyses, nous utilisons des micro-données de naissances et décès pr
 
 
 ## Import the notebooks into your site
+
+#{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
+![png](output_1_0.png)
 
 ```bash
 pipx install academic
