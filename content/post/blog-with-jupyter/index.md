@@ -1,8 +1,7 @@
 ---
-title: le fil invisible entre mortalité maternelle et unions précoces
-date: '2024-05-20'
-summary: Trois fois plus fréquent chez les femmes autochtones en Amérique latine : étude de cas sur la Colombie.
-
+title: Blog with Jupyter Notebooks!
+date: '2023-11-04'
+summary: Easily blog from Jupyter notebooks!
 ---
 
 
