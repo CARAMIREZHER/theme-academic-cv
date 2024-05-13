@@ -44,7 +44,7 @@ International Consultancy: Measurement of harmful practices in indigenous popula
         - title: Direction Advisor
           company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
           company_url: 'https://www.dane.gov.co/'
-          company_logo: DANE
+          company_logo: org-x
           location: Bogotá (COL)
           date_start: '2022-12-01'
           date_end: '2023-08-20'
