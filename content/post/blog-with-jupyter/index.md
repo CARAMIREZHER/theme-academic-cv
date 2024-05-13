@@ -1,7 +1,7 @@
 ---
 title: le fil invisible entre mortalité maternelle et unions précoces
 date: '2024-05-20'
-summary: Trois fois plus fréquent chez les femmes autochtones en Amérique latine : étude de cas sur la Colombie. Mots-clés : pratiques traditionnelles néfastes, les mariages forcés/précoces, Mortalité maternelle, violence basée sur le genre, objectifs de développement durable, mesure prévalence, analyse multivariée, populations autochtones.
+summary: Trois fois plus fréquent chez les femmes autochtones en Amérique latine : étude de cas sur la Colombie.
 
 ---
 
