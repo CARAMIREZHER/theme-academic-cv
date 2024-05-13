@@ -45,8 +45,7 @@ sections:
 
 # 2 DANE ADVISOR
         - title: Direction Advisor
-          company: Departamento Administrativo Nacional de Estadística 
-          (NSO Colombia)
+          company: Departamento Administrativo Nacional de Estadística        (NSO Colombia)
           company_url: 'https://www.dane.gov.co/'
           company_logo: DANE
           location: Bogotá (COL)
@@ -64,7 +63,10 @@ sections:
           date_start: '2014-08-01'
           date_end: '2018-03-01'
           description: |2-
-              Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries.
+              Advise the production and analysis of socio-demographic data in the framework for SDGs and CMPD agendas at national and territorial level. Support the development of information with a gender approach and differential approach like, ethnic, geographic, disability and life course.
+
+
+
         - title: Direction Advisor
           company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
           company_url: 'https://www.dane.gov.co/'
