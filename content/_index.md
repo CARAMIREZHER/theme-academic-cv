@@ -31,6 +31,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      
+# 1 UNFPA LACRO
         - title: International Consultant
           company: United Nations Population Fund (UNFPA), Latin America & the Caribbean  Regional Office
           company_url: 'https://lac.unfpa.org/es'
@@ -40,6 +42,8 @@ sections:
           date_end: ''
           description: |2-
               Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries.
+
+# 2 DANE ADVISOR
         - title: Direction Advisor
           company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
           company_url: 'https://www.dane.gov.co/'
@@ -53,9 +57,9 @@ sections:
           company: United Nations Population Fund (UNFPA) Colombia
           company_url: 'https://colombia.unfpa.org/es'
           company_logo: UNFPA
-          location: Panama (PAN)
-          date_start: '2024-05-03'
-          date_end: ''
+          location: Bogotá (COL)
+          date_start: '2014-08-01'
+          date_end: '2018-03-01'
           description: |2-
               Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries.
         - title: Direction Advisor
