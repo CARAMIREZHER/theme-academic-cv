@@ -47,7 +47,8 @@ sections:
           location: Bogotá (COL)
           date_start: '2022-12-01'
           date_end: '2023-08-20'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2- 
+              Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
     design:
       columns: '2'
   - block: accomplishments
