@@ -38,7 +38,7 @@ sections:
           location: Panama (PAN)
           date_start: '2024-05-03'
           date_end: ''
-          description: |2-
+          description:
 International Consultancy: Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries
               
         - title: Direction Advisor
