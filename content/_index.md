@@ -39,7 +39,8 @@ sections:
           date_start: '2024-05-03'
           date_end: ''
           description: |2-
-              Measuring harmful practices in indigenous populations in Latin American countries:
+              Responsibilities include:
+
               * Analysing
               * Modelling
               * Deploying
