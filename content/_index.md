@@ -60,22 +60,33 @@ sections:
           company_url: 'https://colombia.unfpa.org/es'
           company_logo: UNFPA
           location: Bogotá (COL)
-          date_start: '2014-08-01'
-          date_end: '2018-03-01'
+          date_start: '2018-04-01'
+          date_end: '2022-12-01'
           description: |2-
               Advise the production and analysis of socio-demographic data in the framework for SDGs and CMPD agendas at national and territorial level. Support the development of information with a gender approach and differential approach like, ethnic, geographic, disability and life course.
 
-
-
+# 4 DANE DEMOGRAP
         - title: Direction Advisor
           company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
           company_url: 'https://www.dane.gov.co/'
           company_logo: DANE
           location: Bogotá (COL)
-          date_start: '2022-12-01'
-          date_end: '2023-08-20'
+          date_start: '2014-08-01'
+          date_end: '2018-03-01'
           description: |2- 
               Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
+
+# 5 INED
+        - title: Research practices
+          company: Institut national d'études démographiques (Ined)
+          company_url: 'https://www.ined.fr/en/'
+          company_logo: INED
+          location: Bogotá (COL)
+          date_start: '2014-08-01'
+          date_end: '2018-03-01'
+          description: |2- 
+              Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
+
     design:
       columns: '2'
   - block: accomplishments
