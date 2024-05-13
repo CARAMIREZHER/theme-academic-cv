@@ -5,25 +5,14 @@ summary: Trois fois plus fréquent chez les femmes autochtones en Colombie
 ---
 
 
-```python
-from IPython.core.display import Image
-#Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-![png](featured.png)
-```
-
-    
 ![png](output_1_0.png)
     
 
-```python
-print("Welcome to Academic!")
-```
+## Contexte
 
-    Welcome to Academic!
+La violence contre les femmes et les filles comprend les abus physiques, sexuels et mentaux (Nations Unies, 1995). Le concept de pratiques traditionnelles néfastes (harmful traditional practices en anglais) a été développé par les Nations Unies pour pouvoir adresser de façon complète ces formes de violence envers les femmes (Winter et al., 2002). Les pratiques traditionnelles néfastes (PTN) sont des violations des droits humains qui mettent en péril la santé sexuelle et reproductive des femmes et des filles et comprend les mutilations génitales féminines (MGF), les mariages forcés/précoces (MFP), les préférences pour les garçons et ses implications sur le statut des filles, l'infanticide féminin, les grossesses précoces, les tabous nutritionnels et les pratiques liées à l'accouchement (Nations Unies, 1995).
+Les MFP font référence aux mariages et unions qui ont lieu avant l'âge de 18 ans, ce qui marque la fin de l'enfance selon la Convention relative aux droits de l'enfant (1989), et qui, dans de nombreux cas, sont forcés ou arrangés par leurs proches. En général, le mariage précoce est fréquent dans les communautés indigènes d'Amérique latine en raison d'une combinaison de facteurs tels que la pauvreté, les normes culturelles, le manque d'accès à l'éducation, la discrimination, la marginalisation et l'inégalité entre les sexes (Valentine et al., 2017). La Colombie permet actuellement légalement à une fille ou un garçon de se marier entre 14 et 17 ans, si les parents l'autorisent (Castro-Martín, 2008); c'est la même situation en Équateur, au Venezuela, en Bolivie et en Uruguay concernant l’Amérique latine (Laplante et al., 2015). La prévalence du mariage infantile dans la région reste à environ 30 % depuis les 40 derniers années selon les statistiques officielles (Godha et al., 2016; UNICEF, 2014) (UNICEF, 2021).
 
-## Organize your notebooks
-
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
 
 ## Import the notebooks into your site
 
