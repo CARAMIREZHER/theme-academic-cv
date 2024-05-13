@@ -38,12 +38,7 @@ sections:
           location: Panama (PAN)
           date_start: '2024-05-03'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: International Consultancy: Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
