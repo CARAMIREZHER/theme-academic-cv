@@ -1,5 +1,5 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: Le fil invisible entre mortalité maternelle et unions précoces
 date: '2023-11-04'
 summary: Easily blog from Jupyter notebooks!
 ---
