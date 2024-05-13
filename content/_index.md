@@ -81,11 +81,11 @@ sections:
           company: Institut national d'études démographiques (Ined)
           company_url: 'https://www.ined.fr/en/'
           company_logo: INED
-          location: Bogotá (COL)
-          date_start: '2014-08-01'
-          date_end: '2018-03-01'
+          location: Paris (FRA)
+          date_start: '2013-11-01'
+          date_end: '2014-07-01'
           description: |2- 
-              Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
+              Demographic analysis of population with multiple residences. Optimization on expansion factors in french surveys.
 
     design:
       columns: '2'
