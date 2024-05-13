@@ -1,7 +1,7 @@
 ---
 title: Le fil invisible entre mortalité maternelle et unions précoces
 date: '2024-05-01'
-summary: Trois fois plus fréquent chez les femmes autochtones en Amérique latine : étude de cas sur la Colombie
+summary: Trois fois plus fréquent chez les femmes autochtones en Colombie
 ---
 
 
