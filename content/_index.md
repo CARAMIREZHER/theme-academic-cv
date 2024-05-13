@@ -45,7 +45,8 @@ sections:
 
 # 2 DANE ADVISOR
         - title: Direction Advisor
-          company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
+          company: Departamento Administrativo Nacional de Estadística 
+          (NSO Colombia)
           company_url: 'https://www.dane.gov.co/'
           company_logo: DANE
           location: Bogotá (COL)
@@ -53,8 +54,10 @@ sections:
           date_end: '2023-08-20'
           description: |2- 
               Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
+
+# 3 UNFPA COLOMBIA
         - title: Demographer
-          company: United Nations Population Fund (UNFPA) Colombia
+          company: United Nations Population Fund (UNFPA), Colombia
           company_url: 'https://colombia.unfpa.org/es'
           company_logo: UNFPA
           location: Bogotá (COL)
