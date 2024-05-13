@@ -39,14 +39,14 @@ sections:
           date_start: '2024-05-03'
           date_end: ''
           description: |2-
-              International Consultancy: Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries.
+        - title: Direction Advisor
+          company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
+          company_url: 'https://www.dane.gov.co/'
           company_logo: DANE
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Bogotá (COL)
+          date_start: '2022-12-01'
+          date_end: '2023-08-20'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
