@@ -49,6 +49,24 @@ sections:
           date_end: '2023-08-20'
           description: |2- 
               Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
+        - title: Demographer
+          company: United Nations Population Fund (UNFPA) Colombia
+          company_url: 'https://colombia.unfpa.org/es'
+          company_logo: UNFPA
+          location: Panama (PAN)
+          date_start: '2024-05-03'
+          date_end: ''
+          description: |2-
+              Measurement of harmful practices in indigenous populations in Latin populations in Latin American countries.
+        - title: Direction Advisor
+          company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
+          company_url: 'https://www.dane.gov.co/'
+          company_logo: DANE
+          location: Bogotá (COL)
+          date_start: '2022-12-01'
+          date_end: '2023-08-20'
+          description: |2- 
+              Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
     design:
       columns: '2'
   - block: accomplishments
