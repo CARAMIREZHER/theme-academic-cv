@@ -28,6 +28,11 @@ image:
   placement: 2
 #  preview_only: false
 
+```
+Figure 2: Diagrame de Sankey sur les filles de 10 á 14 ans et les unions précoces.
+Source: DANE, Recensement national de la population et du logement 2018, calculs propres.
+```
+
 authors:
   - admin
 
