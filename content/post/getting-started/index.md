@@ -3,7 +3,7 @@ title: Analyse des causes de décès chez les femmes entre 10 et 19 ans
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Analyse des taux de mortalité spécifiques, selon les grands groupes de causes de décès de la CIM10 chez les femmes âgées de 10 à 14 ans (et de 15 à 19 ans), divisés par le nombre de femmes de la même tranche d'âge pour cette année
+summary: Analyse des taux de mortalité spécifiques, selon les grands groupes de causes de décès de la CIM10 chez les femmes âgées de 10 à 14 ans (et de 15 à 19 ans), divisés par le nombre de femmes de la même tranche d'âge pour cette année.
 
 # Link this post with a project
 projects: []
@@ -23,9 +23,9 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: Figure 4 Classement des principales causes de décès des filles âgées de 10 à 14 ans et de 15 à 19 ans, en fonction du taux de mortalité spécifique.
-  focal_point: ''
-  placement: 2
+#  caption: Figure 4 Classement des principales causes de décès des filles âgées de 10 à 14 ans et de 15 à 19 ans, en fonction du taux de mortalité spécifique.
+#  focal_point: ''
+#  placement: 2
 #  preview_only: false
 
 
@@ -43,11 +43,14 @@ categories:
 ---
 
 ```
-Figure 2: Diagrame de Sankey sur les filles de 10 á 14 ans et les unions précoces.
+Figure 1: Diagrame de Sankey sur les filles de 10 á 14 ans et les unions précoces.
 Source: DANE, Recensement national de la population et du logement 2018, calculs propres.
 ```
 
 ## Overview
+Analyse des taux de mortalité spécifiques, selon les grands groupes de causes de décès de la CIM10 chez les femmes âgées de 10 à 14 ans (et de 15 à 19 ans), divisés par le nombre de femmes de la même tranche d'âge pour cette année.
+
+Selon la Figure 4, les décès dus à la grossesse et au couchement chez l'ensemble des adolescentes de 15 à 19 ans occupent la 3ème place sur 18 dans le classement des causes de décès. Cependant, le calcul de ces mêmes classements, désagrégés selon l'état matrimonial, donne lieu à la Figure 5, qui montre une différence entre les causes de décès des filles de 10 à 14 ans qui ont déjà été en union et celles qui ne sont pas, où la mortalité due à la grossesse et au couchement est classée 17e sur 18 pour les filles non mariées, alors qu'elle est classée 2e pour les filles qui ont déjà été en union. Ce même exercice pour le groupe d'âge 15-19 ans montre également une différence entre les causes de décès des adolescentes, où la mortalité due à la grossesse et au couchement est classée 7e sur 18 pour les filles non mariées, alors qu'elle est classée 2e pour les filles qui ont déjà été en union.
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
