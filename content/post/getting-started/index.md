@@ -3,7 +3,7 @@ title: Analyse des causes de décès chez les femmes entre 10 et 19 ans
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Analyse des taux de mortalité spécifiques, selon les grands groupes de causes de décès de la CIM10 chez les femmes âgées de 10 à 14 ans (et de 15 à 19 ans), divisés par le nombre de femmes de la même tranche d'âge pour cette année.
+summary: Analyse des taux de mortalité spécifiques, selon les grands groupes de causes de décès de la CIM10 chez les femmes âgées de 10 à 14 ans (et de 15 à 19 ans), divisés par le nombre de femmes de la même tranche d'âge pour cette année
 
 # Link this post with a project
 projects: []
