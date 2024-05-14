@@ -25,7 +25,7 @@ featured: false
 image:
   caption: Figure 4 Classement des principales causes de décès des filles âgées de 10 à 14 ans et de 15 à 19 ans, en fonction du taux de mortalité spécifique.
   focal_point: ''
-  placement: 1
+  placement: 3
 #  preview_only: false
 
 
