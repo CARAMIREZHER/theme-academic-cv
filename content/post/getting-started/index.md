@@ -28,25 +28,35 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-  - admin
-  - 吳恩達
-
-tags:
-  - Academic
-  - 开源
-
-categories:
-  - Demo
-  - 教程
----
-
-```python
-import libr
-print('hello')
+```
+Figure 1: Diagrame de Sankey sur les filles de 15 á 19 ans et les unions précoces.
+Source: DANE, Recensement national de la population et du logement 2018, calculs propres.
 ```
 
+authors:
+  - admin
+
+tags:
+  - Analysis of causes of death
+  - Mortalité
+  
+categories:
+  - Maternal mortality
+  - Classification Internationale des Maladies (CIM-10)
+
+---
+
 ## Overview
+
+Passons maintenant à l'analyse des taux de mortalité spécifiques, selon les grands groupes de causes de décès de la CIM10 chez les femmes âgées de 10 à 14 ans (et de 15 à 19 ans), divisés par le nombre de femmes de la même tranche d'âge pour cette année.
+
+
+
+
+
+
+
+
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
