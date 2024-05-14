@@ -1,6 +1,6 @@
 ---
-title: Le fil invisible entre mortalité maternelle et unions précoces (2)
-subtitle: Analyse des causes de décès chez les femmes entre 10 et 19 ans
+title: Analyse des causes de décès chez les femmes entre 10 et 19 ans
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -30,13 +30,15 @@ image:
 
 authors:
   - admin
+  - 吳恩達
 
 tags:
-  - Analysis of causes of death
+  - Academic
+  - 开源
 
 categories:
-  - Maternal mortality
-  - Classification Internationale des Maladies (CIM-10)
+  - Demo
+  - 教程
 ---
 
 ```python
