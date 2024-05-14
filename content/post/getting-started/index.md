@@ -25,7 +25,7 @@ featured: false
 image:
   caption: Figure 4 Classement des principales causes de décès des filles âgées de 10 à 14 ans et de 15 à 19 ans, en fonction du taux de mortalité spécifique.
   focal_point: ''
-  placement: 4
+  placement: 2
 #  preview_only: false
 
 
@@ -42,9 +42,9 @@ categories:
 
 ---
 
-```python
-import libr
-print('hello')
+```
+Figure 2: Diagrame de Sankey sur les filles de 10 á 14 ans et les unions précoces.
+Source: DANE, Recensement national de la population et du logement 2018, calculs propres.
 ```
 
 ## Overview
