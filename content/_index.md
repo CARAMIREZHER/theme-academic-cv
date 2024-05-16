@@ -55,7 +55,7 @@ sections:
               Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
 
 # 3 UNFPA COLOMBIA
-        - title: DemographereEE
+        - title: Demographer
           company: United Nations Population Fund (UNFPA), Colombia
           company_url: 'https://colombia.unfpa.org/es'
           company_logo: UNFPA
@@ -66,7 +66,7 @@ sections:
               Advise the production and analysis of socio-demographic data in the framework for SDGs and CMPD agendas at national and territorial level. Support the development of information with a gender approach and differential approach like, ethnic, geographic, disability and life course.
 
 # 4 DANE DEMOGRAP
-        - title: Direction Advisor
+        - title: Demographer
           company: Departamento Administrativo Nacional de Estadística (NSO Colombia)
           company_url: 'https://www.dane.gov.co/'
           company_logo: DANE
@@ -74,7 +74,7 @@ sections:
           date_start: '2014-08-01'
           date_end: '2018-03-01'
           description: |2- 
-              Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
+              Formulate the methodology for monitoring of the components of population change. Advice for the statistical use of admin records to strengthen demographic estimations.
 
 # 5 INED
         - title: Research practices
@@ -134,7 +134,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Projects
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
