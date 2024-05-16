@@ -1,5 +1,5 @@
 ---
-title: Analyse des correspondances multiples: mortalité maternelle et unions précoces chez les femmes entre 10 et 19 ans
+title: ACM: mortalité maternelle et unions précoces chez les femmes entre 10 et 19 ans
 date: 2024-05-20
 math: true
 image:
