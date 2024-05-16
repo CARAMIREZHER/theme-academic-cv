@@ -55,7 +55,7 @@ sections:
               Coordinate the Internal Working Group on Poverty (Monetary Poverty and Multidimensional Poverty Index) and the Internal Working Group on SDGs (Sustainable Development Goals).
 
 # 3 UNFPA COLOMBIA
-        - title: Demographer
+        - title: DemographereEE
           company: United Nations Population Fund (UNFPA), Colombia
           company_url: 'https://colombia.unfpa.org/es'
           company_logo: UNFPA
