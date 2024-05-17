@@ -1,13 +1,14 @@
 ---
-title: Analyse des correspondances multiples de la mortalité maternelle et les unions précoces
+title: Le mariage précoce est-il un facteur associé aux décès maternels des adolescentes et des filles en Colombie ?
 date: 2024-03-20
 math: true
 image:
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: ''
 ---
 
-Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Analyse des correspondances multiples de la mortalité maternelle et les unions précoces.
+
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
