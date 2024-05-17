@@ -11,6 +11,15 @@ Question de recherche: Analyse des correspondances multiples de la mortalité ma
 
 L'ACM a été réalisée pour illustrer la relation entre les variables qui seront incluses dans le modèle de régression. Nous montrerons ici 1) la qualité de la représentation, 2) l'analyse des cartes de correspondances multiples, 3) la contribution des catégories et l'interprétation des dimensions, 4) et les associations entre les catégories.
 
+![png](featured2.png) 
+  focal_point: ''
+  placement: 2
+  
+```
+Table 1.  Tableau des valeurs propres à l'ACM.
+```
+
+
 En ce qui concerne la qualité de la représentation des catégories dans le premier plan (Dimension 1 et 2), le tableau des valeurs propres (Tableau 1) montre que sur les 100% de l'inertie (variance) dans les 6 dimensions, dans les plans 1 et 2, 42.8% sont résumés, ce qui est assez bon. Les catégories qui contribuent ensemble le plus au 1er axe (86%) et au 2ème axe (83%) sont Mortalité Maternelle : Oui, Ethnicité : Indigène, État matrimonial : Toujours ensemble et Zone : Rurale. 
 Figure 6. Plan factoriel 1 et 2, ACM
 La Figure 6 montre l'association globale des catégories des variables dans le premier plan factoriel et la distance entre les points montre la similarité entre elles (KASSAMBARA, 2017). Ce graphique met également en évidence la qualité de la représentation dans le plan factoriel au moyen des couleurs de température, c'est-à-dire que plus la catégorie est rouge, mieux elle est représentée dans ce plan, et plus la catégorie est bleue, moins elle est représentée dans ce plan. En observant ce graphique, on constate que l'axe des x (ou facteur 1) divise l'information en deux grands groupes:

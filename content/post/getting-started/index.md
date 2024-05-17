@@ -56,7 +56,7 @@ Analyse des taux de mortalité spécifiques, selon les grands groupes de causes 
   placement: 2
   
 ```
-Figure 5. Classement des principales causes de décès des filles âgées de 10 à 14 ans et de 15 à 19 ans, selon le taux de mortalité spécifique et l'état matrimonial.
+Figure 2. Classement des principales causes de décès des filles âgées de 10 à 14 ans et de 15 à 19 ans, selon le taux de mortalité spécifique et l'état matrimonial.
 Source : DANE : DANE, statistiques vitales des décès et recensement, calculs propres.
 ```
 
