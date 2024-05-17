@@ -94,7 +94,7 @@ sections:
       title: About me
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Toward this end, Carlos is pursuing a PhD in Demography at the University of Montreal. His thesis will focus on “Measuring female genital mutilation in Colombia” while also analyzing methodologies to measure the practice in different countries and contexts. Carlos’ interest in quantification methodologies can be traced back to his work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
 
 
   - block: accomplishments
