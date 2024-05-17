@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: 8.3.	Analyse des correspondances multiples
+date: 2024-03-20
 math: true
 image:
   placement: 2
