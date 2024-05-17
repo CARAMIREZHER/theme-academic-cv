@@ -18,17 +18,6 @@ sections:
 #    design:
 #      columns: '2'
 
-
-  - block: contact
-    id: contact
-    content:
-      title: About me
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-
-
-
   - block: experience
     content:
       title: Experience
@@ -96,9 +85,24 @@ sections:
           date_end: '2014-07-01'
           description: |2- 
               Demographic analysis of population with multiple residences. Optimization on expansion factors in french surveys.
-
     design:
       columns: '2'
+
+  - block: contact
+    id: contact
+    content:
+      title: About me
+      subtitle:
+      text: |-
+        Toward this end, Carlos is pursuing a PhD in Demography at the University of Montreal. His thesis will focus on “Measuring female genital mutilation in Colombia” while also analyzing methodologies to measure the practice in different countries and contexts. Carlos’ interest in quantification methodologies can be traced back to his work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
+
+The impact Carlos wants to see from his research is shaped by his rich professional background. From 2018 to 2022, he worked at the United Nations Population Fund (UNFPA) where he analyzed and interpreted the relations between population dynamics (mortality, fertility, and migration) and gaps in sexual and reproductive health, gender-based violence, and aging in Colombian regions with critical humanitarian contexts. With other UNFPA colleagues, he presented a prize-winning poster on adolescent fertility and the vulnerability level of spatial units at the 2021 conference of the International Union for the Scientific Study of Population (IUSSP).
+
+Carlos presenting at a conference back when he worked at the UNFPA. 
+
+During his free time, Carlos likes to spend time with family and friends, listen to music, and dance. Carlos says he is on a continuous search for good restaurants and street food.
+
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
