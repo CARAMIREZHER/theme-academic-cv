@@ -89,7 +89,7 @@ sections:
       columns: '2'
 
   - block: contact
-    id: contact
+    id: 
     content:
       title: About me
       subtitle:
