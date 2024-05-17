@@ -95,7 +95,8 @@ sections:
       subtitle:
       text: |-
         Toward this end, Carlos is pursuing a PhD in Demography at the University of Montreal. His thesis will focus on “Measuring female genital mutilation in Colombia” while also analyzing methodologies to measure the practice in different countries and contexts. Carlos’ interest in quantification methodologies can be traced back to his work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
-
+        
+        The impact Carlos wants to see from his research is shaped by his rich professional background. From 2018 to 2022, he worked at the United Nations Population Fund (UNFPA) where he analyzed and interpreted the relations between population dynamics (mortality, fertility, and migration) and gaps in sexual and reproductive health, gender-based violence, and aging in Colombian regions with critical humanitarian contexts. With other UNFPA colleagues, he presented a prize-winning poster on adolescent fertility and the vulnerability level of spatial units at the 2021 conference of the International Union for the Scientific Study of Population (IUSSP).
 
   - block: accomplishments
     content:
