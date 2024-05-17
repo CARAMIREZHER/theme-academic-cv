@@ -1,5 +1,5 @@
 ---
-title: 8.3.	Analyse des correspondances multiples
+title: Analyse des correspondances multiples de la mortalité maternelle et les unions précoces
 date: 2024-03-20
 math: true
 image:
