@@ -12,11 +12,21 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: tag_cloud
+#  - block: tag_cloud
+#    content:
+#      title: Educational and professional goals
+#    design:
+#      columns: '2'
+
+
+  - block: contact
+    id: contact
     content:
-      title: Educational and professional goals
-    design:
-      columns: '2'
+      title: About me
+      subtitle:
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+
 
 
   - block: experience
