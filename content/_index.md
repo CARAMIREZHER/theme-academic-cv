@@ -142,7 +142,7 @@ sections:
 #          url: ''
 #    design:
 #      columns: '1'
-  - block: Projects
+  - block: collection
     id: Projects
     content:
       title: Projects
