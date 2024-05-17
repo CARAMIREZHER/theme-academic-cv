@@ -94,11 +94,11 @@ sections:
       title: About me
       subtitle:
       text: |-
-        Toward this end, Carlos is pursuing a PhD in Demography at the University of Montreal. His thesis will focus on “Measuring female genital mutilation in Colombia” while also analyzing methodologies to measure the practice in different countries and contexts. Carlos’ interest in quantification methodologies can be traced back to his work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
-        
-        The impact Carlos wants to see from his research is shaped by his rich professional background. From 2018 to 2022, he worked at the United Nations Population Fund (UNFPA) where he analyzed and interpreted the relations between population dynamics (mortality, fertility, and migration) and gaps in sexual and reproductive health, gender-based violence, and aging in Colombian regions with critical humanitarian contexts. With other UNFPA colleagues, he presented a prize-winning poster on adolescent fertility and the vulnerability level of spatial units at the 2021 conference of the International Union for the Scientific Study of Population (IUSSP).
-        
-        During his free time, Carlos likes to spend time with family and friends, listen to music, and dance. Carlos says he is on a continuous search for good restaurants and street food.
+        I'm pursuing a PhD in Demography at the University of Montreal. My thesis will focus on Measuring female genital mutilation in Latin America while also analyzing methodologies to measure the practice in different contexts. I’m interested in quantification methodologies can be traced back to my work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
+        
+        The impact I want to see from my research is shaped by my professional background. From 2018 to 2022, I worked at the United Nations Population Fund (UNFPA) where I analyzed and interpreted the relations between population dynamics (mortality, fertility, and migration) and gaps in sexual and reproductive health, gender-based violence, and aging in Colombian regions with critical humanitarian contexts. With other UNFPA colleagues, I presented a prize-winning poster on adolescent fertility and the vulnerability level of spatial units at the 2021 conference of the International Union for the International Union for the Scientific Study of Population (IUSSP).
+        
+        During my free time, I like to spend time with my family and friends, listen to music, and dance. I'm on a continuous search for good restaurants and street food.
 
   - block: accomplishments
     content:
