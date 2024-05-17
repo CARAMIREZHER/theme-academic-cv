@@ -143,7 +143,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: posts
+    id: Projects
     content:
       title: Projects
       subtitle: ''
