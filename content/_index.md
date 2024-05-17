@@ -88,10 +88,10 @@ sections:
     design:
       columns: '2'
 
-  - block: contact
-    id: contact
+  - block: About me
+    id: About me
     content:
-      title: About me
+      title: 
       subtitle:
       text: |-
         I'm pursuing a PhD in Demography at the University of Montreal. My thesis will focus on Measuring female genital mutilation in Latin America while also analyzing methodologies to measure the practice in different contexts. I’m interested in quantification methodologies can be traced back to my work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
