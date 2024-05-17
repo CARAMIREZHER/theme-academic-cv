@@ -1,6 +1,6 @@
 ---
-title: ACM mortalité maternelle et unions précoces chez les femmes entre 10 et 19 ans
-date: 2024-05-20
+title: Writing technical content in Markdown
+date: 2019-07-12
 math: true
 image:
   placement: 2
