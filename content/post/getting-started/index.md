@@ -48,13 +48,11 @@ Source : DANE, enregistrement des naissances et des décès, calculs propres.
 
 ```
 
-## Overview
+
 Analyse des taux de mortalité spécifiques, selon les grands groupes de causes de décès de la CIM10 chez les femmes âgées de 10 à 14 ans (et de 15 à 19 ans), divisés par le nombre de femmes de la même tranche d'âge pour cette année. Selon la Figure 1, les décès dus à la grossesse et au couchement chez l'ensemble des adolescentes de 15 à 19 ans occupent la 3ème place sur 18 dans le classement des causes de décès. 
 
 ![png](output_1_0.png) 
-  focal_point: ''
-  placement: 2
-  
+
 ```
 Figure 2. Classement des principales causes de décès des filles âgées de 10 à 14 ans et de 15 à 19 ans, selon le taux de mortalité spécifique et l'état matrimonial.
 Source : DANE : DANE, statistiques vitales des décès et recensement, calculs propres.
