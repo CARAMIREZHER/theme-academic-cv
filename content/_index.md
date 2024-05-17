@@ -88,8 +88,8 @@ sections:
     design:
       columns: '2'
 
-  - block: About me
-    id: About me
+  - block: contact
+    id: contact
     content:
       title: About me
       subtitle:
@@ -260,7 +260,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text:
+      text: 
       # Contact (add or remove contact options as necessary)
       email: carlos.arturo.ramirez.hernandez@umontreal.ca
       phone: +1 (438) 5290394
