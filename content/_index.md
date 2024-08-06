@@ -148,7 +148,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: talks
+    id: 
     content:
       title: CAnD3 artifacts
       subtitle: ''
