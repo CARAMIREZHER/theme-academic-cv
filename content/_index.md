@@ -148,9 +148,9 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: artifacts
+    id: talks
     content:
-      title: CAnD3. artifacts
+      title: CAnD3 artifacts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
