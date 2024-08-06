@@ -94,12 +94,13 @@ sections:
       title: CAnD3 learning goals
       subtitle:
       text: |-
-        I'm pursuing a PhD in Demography at the University of Montreal. My thesis will focus on Measuring female genital mutilation in Latin America while also analyzing methodologies to measure the practice in different contexts. I’m interested in quantification methodologies can be traced back to my work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
-        
         1. To become more skilled in using Python because I know that it has options that could help me in my work as a research assistant at the university.
-        To explore new packages that I have never used before in R or Python that could be useful for me to do as a researcher, such as Markdown
-        
-        During my free time, I like to spend time with my family and friends, listen to music, and dance. I'm on a continuous search for good restaurants and street food.
+        2. To explore new packages that I have never used before in R or Python that could be useful for me to do as a researcher, such as Markdown
+        3.	To further develop the habit of using forums and web pages where doubts regarding the use of software such as R and Python are resolved, supported, and also contributed on my behalf.
+        4. To become more skilled in my speech, specifically, I tend to extend my arguments and not be concrete in my ideas.
+        5. To integrate more complex geographic maps into my academic developments that help me justify my arguments and ideas.
+        6. To further develop my understanding of DAG schemes so I can integrate it into the writing of my thesis work and the preparation of presentations, among others.
+
 
 #  - block: accomplishments
 #    content:
