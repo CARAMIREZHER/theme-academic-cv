@@ -30,10 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Measurement of GBV
-  - Measurement of SRH
   - Latin American demographics
   - Indigenous population
-  - Gaps in measuring the SDGs
   - Demography and public policy
   - Sampling design
   - Multivariate analysis
