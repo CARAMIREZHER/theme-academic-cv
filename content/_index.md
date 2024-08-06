@@ -150,7 +150,7 @@ sections:
   - block: collection
     id: artifacts
     content:
-      title: CAnD3 artifacts
+      title: CAnD3. artifacts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
