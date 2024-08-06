@@ -147,7 +147,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: Projects
+    id: collection
     content:
       title: CAnD3 artifacts
       subtitle: ''
