@@ -94,6 +94,7 @@ sections:
       title: CAnD3 learning goals
       subtitle:
       text: |-
+        # CAnD3_goals
         I am a fellow of the Consortium on Analytics for Data-Driven Decision Making (CAnD3 https://www.mcgill.ca/cand3/) which focuses on developing population analysis in an aging society, to support evidence-based decision making. The objectives set and achieved during the development of this training were:
         
         1. To become more skilled in using Python because I know that it has options that could help me in my work as a research assistant at the university.
@@ -147,7 +148,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: collection
+    id: Projects
     content:
       title: CAnD3 artifacts
       subtitle: ''
