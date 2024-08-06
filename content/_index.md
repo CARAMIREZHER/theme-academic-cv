@@ -251,6 +251,7 @@ sections:
 #      columns: '2'
 
   - block: skills
+    id: featured
     content:
       title: Skills
       text: ''
