@@ -88,13 +88,14 @@ sections:
     design:
       columns: '2'
 
-  - block: CAnD3_goals
-    id: CAnD3_goals
+  - block: contact
+    id: 
     content:
       title: CAnD3 learning goals
       subtitle:
       text: |-
         I am a fellow of the Consortium on Analytics for Data-Driven Decision Making (CAnD3 https://www.mcgill.ca/cand3/) which focuses on developing population analysis in an aging society, to support evidence-based decision making. The objectives set and achieved during the development of this training were:
+        
         1. To become more skilled in using Python because I know that it has options that could help me in my work as a research assistant at the university.
         2. To explore new packages that I have never used before in R or Python that could be useful for me to do as a researcher, such as Markdown
         3.	To further develop the habit of using forums and web pages where doubts regarding the use of software such as R and Python are resolved, supported, and also contributed on my behalf.
