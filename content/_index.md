@@ -89,12 +89,9 @@ sections:
       columns: '2'
 
   - block: contact
-    id: 
+    id: featured
     content:
       title: CAnD3 learning goals
-      filters:
-        folders:
-          - CAnD3_goals
       subtitle:
       text: |-
         I am a fellow of the Consortium on Analytics for Data-Driven Decision Making (CAnD3 https://www.mcgill.ca/cand3/) which focuses on developing population analysis in an aging society, to support evidence-based decision making. The objectives set and achieved during the development of this training were:
