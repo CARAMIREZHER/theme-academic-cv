@@ -19,7 +19,7 @@ sections:
 #      columns: '2'
 
   - block: experience
-    id: projects
+    id: posts
     content:
       title: Experience
       # Date format for experience
@@ -90,7 +90,7 @@ sections:
       columns: '2'
 
   - block: contact
-    id: featured
+    id: projects
     content:
       title: CAnD3 learning goals
       subtitle:
@@ -148,7 +148,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: Projects
+    id: talks
     content:
       title: CAnD3 artifacts
       subtitle: ''
@@ -251,7 +251,7 @@ sections:
 #      columns: '2'
 
   - block: skills
-    content:
+    content: featured
       title: Skills
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
