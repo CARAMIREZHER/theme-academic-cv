@@ -1,5 +1,5 @@
 ---
-title: CAnD3_goals
+title: Posts
 cms_exclude: true
 
 # View.
