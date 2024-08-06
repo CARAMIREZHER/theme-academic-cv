@@ -96,7 +96,8 @@ sections:
       text: |-
         I'm pursuing a PhD in Demography at the University of Montreal. My thesis will focus on Measuring female genital mutilation in Latin America while also analyzing methodologies to measure the practice in different contexts. I’m interested in quantification methodologies can be traced back to my work analyzing fertility in Colombia from non-traditional and innovative sources, such as administrative records of vaccinations.
         
-        To become more skilled in using Python because I know that it has options that could help me in my work as a research assistant at the university.
+        1. To become more skilled in using Python because I know that it has options that could help me in my work as a research assistant at the university.
+        To explore new packages that I have never used before in R or Python that could be useful for me to do as a researcher, such as Markdown
         
         During my free time, I like to spend time with my family and friends, listen to music, and dance. I'm on a continuous search for good restaurants and street food.
 
