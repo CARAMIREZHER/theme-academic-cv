@@ -19,7 +19,7 @@ sections:
 #      columns: '2'
 
   - block: experience
-    id: posts
+    id: 
     content:
       title: Experience
       # Date format for experience
