@@ -88,8 +88,8 @@ sections:
     design:
       columns: '2'
 
-  - block: Posts
-    id: 
+  - block: contact
+    id: contact
     content:
       title: CAnD3 learning goals
       subtitle:
