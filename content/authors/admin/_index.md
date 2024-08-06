@@ -35,7 +35,7 @@ interests:
   - Demography and public policy
   - Sampling design
   - Multivariate analysis
-  - Non-parametric analysis
+
 
 # Education to show in About widget
 education:
