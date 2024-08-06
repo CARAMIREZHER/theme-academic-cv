@@ -95,11 +95,6 @@ sections:
       subtitle:
       text: |-
 To become more skilled in using Python because I know that it has options that could help me in my work as a research assistant at the university.
-To explore new packages that I have never used before in R or Python that could be useful for me to do as a researcher, such as Markdown
-To further develop the habit of using forums and web pages where doubts regarding the use of software such as R and Python are resolved, supported, and also contributed on my behalf.
-To become more skilled in my speech, specifically, I tend to extend my arguments and not be concrete in my ideas.
-To integrate more complex geographic maps into my academic developments that help me justify my arguments and ideas.
-To further develop my understanding of DAG schemes so I can integrate it into the writing of my thesis work and the preparation of presentations, among others.
 
 
 #  - block: accomplishments
